@@ -1,0 +1,4 @@
+node_modules
+.env
+.vercel
+firebase-adminsdk-fbsvc-4101c5cfba.json
